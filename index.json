@@ -1,0 +1,11 @@
+{
+  "org": "agronholm",
+  "repo": "graphql-core",
+  "versions": [
+    {
+      "commit": "fa8f9b509d557341c033ef6d05884e2683cc7ed9",
+      "tag": "",
+      "parsed_at": "2026-10-11T20:25:03.166756+00:00"
+    }
+  ]
+}
